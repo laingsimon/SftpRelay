@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SftpRelay</id>
+    <version>$version$</version>
+    <title>SftpRelay</title>
+    <authors>Simon Laing</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tool to relay files from disk-to-SFTP, vice-versa or SFTP-to-SFTP</description>
+  </metadata>
+</package>
